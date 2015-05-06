@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "https://github.com/statkclee/2015-06-29-yonsei"
-workshop_site   : "http://statkclee.github.io/2015-06-29-yonsei"
+workshop_repo   : "https://github.com/statkclee/2015-06-22-yonsei"
+workshop_site   : "http://statkclee.github.io/2015-06-22-yonsei"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
